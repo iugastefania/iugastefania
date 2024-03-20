@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### Software Engineer, intellectually curious and eager to contribute to meaningful projects while learning and growing. 🌟
+#### Currently pursuing a Machine Learning master's degree. 🌱
+
 <!--
 **iugastefania/iugastefania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
